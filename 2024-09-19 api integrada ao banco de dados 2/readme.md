@@ -23,7 +23,7 @@ src/
     │   │   └── PosseController.java
     │   ├── exceptions/                     # Tratamento de erros
     │   │   ├── handler/
-    │   │   │   └── CustomizedResponseEntityExceptionHandler.java
+    │   │   │   └── ResponseExceptionHandler.java
     │   │   ├── ExceptionPessoaNaoEncontrada.java
     │   │   ├── ExceptionPosseNaoEncontrada.java
     │   │   ├── ExceptionResponse.java

@@ -25,7 +25,7 @@ src/
     │   │   └── Parse.java                      # Validação de números
     │   └── exceptions/
     │       ├── handler/                        # Tratamento global
-    │       │   └── CustomizedResponseEntityExceptionHandler.java
+    │       │   └── ResponseExceptionHandler.java
     │       ├── ExceptionResponse.java          # Modelo de erro
     │       └── UnsupportedMathOperationException.java
     └── resources/
